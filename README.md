@@ -2,8 +2,7 @@
 ### I'm Sinem 🥳
 
 
-- 🔭 I’m currently working on Full-Stack Projects
-- 🌱 I’m currently learning Java And JavaScript
+- 🔭 I’m currently working on Front-End Projects
 
 - 📫 How to reach me: 
 
